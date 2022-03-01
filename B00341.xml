@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short forme of thankesgiving to God, for staying the contagious sickenes of the plague: to be used in common prayer, on Sundayes, Wednesdayes and Fridayes / Set forth by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00341</idno>
+            <idno type="STC">STC 16533</idno>
+            <idno type="STC">ESTC S93951</idno>
+            <idno type="EEBO-CITATION">52633327</idno>
+            <idno type="OCLC">ocm 52633327</idno>
+            <idno type="VID">174756</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174756)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2124:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short forme of thankesgiving to God, for staying the contagious sickenes of the plague: to be used in common prayer, on Sundayes, Wednesdayes and Fridayes / Set forth by authoritie.</title>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, Printer to the Kings most Excellent Maiestie.,</publisher>
+                  <pubPlace>Jmprinted at London :</pubPlace>
+                  <date>Anno 1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border (McK. &amp; Ferg. 165β); royal arms t.p. verso; initials; preface tail-piece; black letter.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Texts --  Early works to 1800.</term>
+               <term>Plague --  England --  Law and legislation.</term>
+               <term>Proclamations.</term>
+               <term>Prayers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174756:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <p>A ſhort forme of Thankeſgiuing to GOD, for ſtaying the contagious ſickenes of the Plague: <hi>To be vſed in Common</hi> Prayer, on Sundayes, Wedneſdayes, and Fridayes.</p>
+            <p>¶ Set forth by Authoritie.</p>
+            <p>
+               <hi>Jmprinted at London</hi> by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO 1604.</p>
+            <figure>
+               <figDesc>elaborate decorative border containing the royal Anglo-Irish blazon or coat of arms, personifications of Fidelity and Humility, and the attributes of the Gospel writers: St Matthew's angel, St John's eagle, St Mark's lion, and St Luke's bull</figDesc>
+               <p>FIDES</p>
+               <p>HVMILITAS</p>
+            </figure>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:174756:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>
+               <figure>
+                  <figDesc>royal Anglo-Irish blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="service_of_thanksgiving">
+            <pb facs="tcp:174756:2"/>
+            <!-- PDF PAGE 10 -->
+            <head>¶ Read the ordinary Seruice till you come to the Pſalmes. And <hi>in ſtead of thoſe which are appointed of</hi> courſe, read ſome of theſe: <hi>Viz.</hi> 34. 95. 103. 116. 107. 118. 145. 146. 147.</head>
+            <head type="sub">¶ After the ſecond Leſſon, read this Pſalme following.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">Pſal. 85.</note>
+               <seg rend="decorInit">L</seg>Ord, thou art be<g ref="char:EOLhyphen"/>come gratious vnto thy Land, thou haſt turned away the afflictions of thy ſeruants.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Thou haſt taken a<g ref="char:EOLhyphen"/>way all thy diſplea<g ref="char:EOLhyphen"/>ſure, and turned thy ſelfe from thy wrathfull indignation.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">Pſal. 94.</note>For if thou Lord hadſt not helped vs, it had not failed, but our ſoules had bene put to ſilence.</p>
+            <p>
+               <pb facs="tcp:174756:3"/>
+               <!-- PDF PAGE 11 -->
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>But when we ſaid our feete haue ſlipped, thy mercie, O Lord, helped vs vp.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> In the multitude of the ſorrowes that we had in our hearts, thy comforts haue refreſhed our ſoules.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <note place="margin">Pſal. 62.63</note>
+               <hi>Our ſoules waited ſtill vpon the Lord, our ſoules hanged vpon his helpe, our hope was alwayes in him.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> In the Lords word did we reioyce, in Gods word did we comfort our ſelues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+               <note place="margin">Pſal. 50.</note>
+               <hi>For the Lord ſaid: Call vpon mee in the time of trouble, and I wil heare thee, and thou ſhalt praiſe me.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+               <note place="margin">Pſal. 40.69</note>So when wee were poore, needy, ſick<g ref="char:EOLhyphen"/>ly, and in heauineſſe, the Lord cared for vs: hee was our helpe and our Sauiour according to his word.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+               <note place="margin">Pſal. 27.</note>
+               <hi>In our aduerſitie and diſtreſſe hee hath lift vp our heads, and ſaued vs from vtter deſtru<g ref="char:EOLhyphen"/>ction.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+               <note place="margin">Pſal. 33.91</note>Hee hath deliuered our ſoules from death, hee hath fedde vs in the time of dearth, hee hath ſaued vs from the noy<g ref="char:EOLhyphen"/>ſome Peſtilence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+               <note place="margin">Pſal. 27.</note>
+               <hi>Therefore will we offer in his holy Tem<g ref="char:EOLhyphen"/>ple, the oblation of Thankeſgiuing with
+<pb facs="tcp:174756:3"/>
+                  <!-- PDF PAGE 11 -->
+great gladneſſe: we will ſing and ſpeake prai<g ref="char:EOLhyphen"/>ſes vnto the Lord our Sauiour.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+               <note place="margin">Pſal. 106.</note>We will giue thankes vnto the Lord, for hee is gratious, and his mercy endu<g ref="char:EOLhyphen"/>reth for euer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+               <note place="margin">Pſal. 86.103.</note>
+               <hi>The Lord is full of compaſſion and mer<g ref="char:EOLhyphen"/>cie, long ſuffering, plenteous in goodneſſe and pitie.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+               <note place="margin">Pſal. 57.108.</note>His mercy is greater then the heauens, and his gratious goodneſſe reacheth vn<g ref="char:EOLhyphen"/>to the cloudes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+               <note place="margin">Pſal. 103.</note>
+               <hi>Like as a father pitieth his owne children: euen ſo is the Lord mercifull vnto them that feare him.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+               <note place="margin">Pſal. 71.</note>Therefore will we praiſe thee and thy mercies, O God, vnto thee will wee ſing, O thou Holy one of Iſrael.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+               <note place="margin">Pſal. 98.</note>
+               <hi>Wee will ſing a New ſong vnto thee, O God, we will praiſe the Lord with Pſalmes of Thankeſgiuing.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/>
+               <note place="margin">Pſal. 47.</note>O ſing praiſes, ſing praiſes vnto our God: O ſing praiſes, ſing praiſes vnto our King.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/>
+               <hi>For God is the King of the earth, ſing prai<g ref="char:EOLhyphen"/>ſes with vnderſtanding.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/>
+               <note place="margin">Pſal. 145.</note>Wee will magnifie thee, O God our
+<pb facs="tcp:174756:4"/>
+               <!-- PDF PAGE 12 -->
+King, wee will praiſe thy Name for euer and euer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/>
+               <hi>Euery day will we giue thankes vnto thee, and praiſe thy Name for euer and euer.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> Our mouth ſhall ſpeake the praiſes of the Lord, and let all fleſh giue thanks to his holy Name for euer and euer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/>
+               <note place="margin">Pſal. 21.72</note>
+               <hi>Bleſſed be the Lord God of Iſrael for euer: and bleſſed bee the Name of his Maieſtie world without end. AMEN. AMEN.</hi>
+            </p>
+         </div>
+         <div type="prayers_of_thanksgiving">
+            <pb facs="tcp:174756:4"/>
+            <!-- PDF PAGE 12 -->
+            <head>In ſtead of the other Prayers vſed in the time of the Sickeneſſe, <hi>Read ſome of theſe following.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee will magnifie thee, O God our King, and we will praiſe thy name for euer and euer: be<g ref="char:EOLhyphen"/>cauſe in the midſt of thine anger, thin<g ref="char:EOLhyphen"/>king vpon mercie, thou haſt deliuered our ſoules from death, and preſerued vs from that noyſome peſtilence, which not long ſince, raged in this Citie, ſweeping away the rich with the poore, the aged with the young, leauing whole houſes de<g ref="char:EOLhyphen"/>ſolate, and filling all places with dead bo<g ref="char:EOLhyphen"/>dies: So that in mans iudgement there was no hope remayning, but that this yeere would haue thereby prooued yet more dreadful and infectious then the for<g ref="char:EOLhyphen"/>mer.
+<pb facs="tcp:174756:5"/>
+               <!-- PDF PAGE 13 -->
+But becauſe thou wilt haue it knowen, that thou onely woundeſt and canſt heale againe, that thou killeſt and reuiueſt, bringeſt euen to hell and backe againe: thou haſt vouchſafed, contrarie to all humane expectation (ſuch is thy power and goodneſſe) to command thine Angell to ſtay his hande, and ſpare this Citie, and haſt turned thine anger and the fierceneſſe therof vpon many other Cities and Townes within this Realme. Wee therfore at this time offer vp vnto thee a double ſacrifice, at once, <hi>of hearty Thankeſ<g ref="char:EOLhyphen"/>giuing</hi> for this our ſtrange deliuerance, and <hi>of humble and earneſt Prayers,</hi> for thoſe dolefull places, thus grieuouſly afflicted: beſeeching thee for thy Sonne Ieſus Chriſt his ſake, to be gracious vnto them alſo, that both they and we in ioynt affec<g ref="char:EOLhyphen"/>tion, may acknowledge thy iuſtice in thy puniſhments, and recorde thine infinite mercies in ſparing vs miſerable ſinners, through Ieſus Chriſt thy Sonne, and our Sauiour, to whom, &amp;c.</p>
+            <p>
+               <pb facs="tcp:174756:5"/>
+               <!-- PDF PAGE 13 -->
+               <seg rend="decorInit">O</seg> Moſt gracious God, ſee<g ref="char:EOLhyphen"/>ing it hath pleaſed thee in the multitude of thoſe ſorrowes which we had in our hearts, by reaſon of that grieuous conta<g ref="char:EOLhyphen"/>gion which thou lately didſt ſend amongſt vs (beſides the feare and expectation of the like, or a more vio<g ref="char:EOLhyphen"/>lent infection this preſent yeere) to ſende thy comfortes for the refreſhing of our ſoules, and to remooue that fearefull pe<g ref="char:EOLhyphen"/>ſtilence fro<g ref="char:cmbAbbrStroke">̄</g> vs, not for any deſert of ours, who are moſt wretched ſinners; nor by any meanes of mans deuiſe, but onely of thine owne fauour, and for thy mercies ſake: we yeeld vnto thy diuine Maieſtie all thankes and praiſe, for this thine eſpe<g ref="char:EOLhyphen"/>ciall goodneſſe; truſting that we ſhal take warning, by this laſt dreadful iudgment, for euer prouoking thee to ſuch a wrath<g ref="char:EOLhyphen"/>full indignation againe. And hauing felt the weight of thy heauie hand vpon our ſelues, tenderly compaſſionating the wo<g ref="char:EOLhyphen"/>full caſe of thoſe Cities and Townes in this Realme, which are nowe ſtricken
+<pb facs="tcp:174756:6"/>
+               <!-- PDF PAGE 14 -->
+with the ſame; we moſt humbly beſeech thee, moſt mercifull Father, to extend the like mercie to them, that thou haſt done to vs. Good Lord ſpare them, and heare their praiers, now crying vnto thee in the vexation of their ſpirits, and the anguiſh of their ſoules, and vs for them, that ſo this whole land may ioyfully prayſe thy Name, and ſay; <hi>Lord thou art become graci<g ref="char:EOLhyphen"/>ous vnto thy land, thou haſt turned away all thy diſpleaſure.</hi> Graunt this O Lord, for thine onely Sonnes ſake, Ieſus Chriſt our Lord and onely Sauiour, Amen.</p>
+            <p>
+               <seg rend="decorInit">A</seg>Lmightie and eternall God, which ſtrikeſt and healeſt, bringeſt downe to death and quickneſt a<g ref="char:EOLhyphen"/>gaine, who in thy iuſt iudgement for our ſinnes diddeſt lately ſore plague vs in our chiefe Citie and round about, with great ſickeneſſe and mortalitie: yet remembring thy mercie haſt turned thy ſelfe moſt graciouſly vnto vs, and comfor<g ref="char:EOLhyphen"/>ted vs againe, by ceaſing the plague ther<g ref="char:EOLhyphen"/>in, euen then when as by all likelihoode
+<pb facs="tcp:174756:6"/>
+               <!-- PDF PAGE 14 -->
+both of the time and place, and concourſe of people, and our litle amendment of life, we could not but iuſtly feare &amp; expect the continuance and encreaſing of the ſame: wee moſt humbly acknowledge with all due thankefulneſſe from the bottome of our hearts, this thine exceeding gracious goodneſſe and vndeſerued mercie, euer<g ref="char:EOLhyphen"/>more prayſing thy great &amp; glorious name, for ſo wonderfull grace and clemencie to<g ref="char:EOLhyphen"/>wards vs moſt vile and wretched ſinners ſo freely and mercifully extended: moſt humbly beſeeching thee of thy fatherly goodneſſe, not onely to continue this gra<g ref="char:EOLhyphen"/>cious courſe of thy louing fauour, in miti<g ref="char:EOLhyphen"/>gating and leſſening more and more this noyſome Peſtilence, till it be cleane remo<g ref="char:EOLhyphen"/>ued from vs: But alſo to powre thy hea<g ref="char:EOLhyphen"/>uenly Grace into our hearts, that we ne<g ref="char:EOLhyphen"/>uer forgetting how grieuouſly and iuſtly wee haue bene chaſtened for our ſinnes, and yet in Mercy not conſumed, but rai<g ref="char:EOLhyphen"/>ſed vp againe and comforted, may learne thereby, both to feare thy dreadful iudge<g ref="char:EOLhyphen"/>ments againſt ſinne, and ſo by true Re<g ref="char:EOLhyphen"/>pentance to turne vnto thee from our
+<pb facs="tcp:174756:7"/>
+               <!-- PDF PAGE 15 -->
+wicked wayes, leaſt a worſe Plague fall vpon vs; And alſo to put our whole truſt in thy Mercy, and approch with confi<g ref="char:EOLhyphen"/>dence vnto thy Throne of Grace, for help and ſuccour in all our troubles and aduer<g ref="char:EOLhyphen"/>ſities, Euermore thanking &amp; prayſing thy glorious Maieſtie for this thy moſt merci<g ref="char:EOLhyphen"/>full and marueilous deliuerance, through Ieſus Chriſt our Lord and Sauiour.</p>
+            <p>
+               <seg rend="decorInit">O</seg> God the Father of our Lord Ieſus Chriſt, the God of all Mercie and Comfort, which art Lord of life and death, and ruleſt all things in heauen and earth by the word of thy Power: Looke downe mer<g ref="char:EOLhyphen"/>cifully from thy Holy place, vpon the peo<g ref="char:EOLhyphen"/>ple of this Land yet grieuouſly afflicted in many places, with great ſickneſſe and mortalitie. And as by thy great Mercy, the Plague which lately raged in our chiefe City, threatning vtter conſumption and deſolation to the ſame, is now ſlaked and aſſwaged to our great comfort, for
+<pb facs="tcp:174756:7"/>
+               <!-- PDF PAGE 15 -->
+which we praiſe and magnifie thy glori<g ref="char:EOLhyphen"/>ous Name: So likewiſe we moſt hum<g ref="char:EOLhyphen"/>bly beſeech thee, in the tender bowels of thy endleſſe Compaſſion, to be gratious and mercifull to the other parts of this land, now fearefully affrighted and af<g ref="char:EOLhyphen"/>flicted with this grieuous Plague &amp; peſti<g ref="char:EOLhyphen"/>lence. Send them good Lord, ſpeedy help and ſuccour from thy Holy habitation; And as thou diddeſt ſometimes turne a<g ref="char:EOLhyphen"/>way thy fierce wrath from the <hi>Niniuites,</hi> being iuſtly threatened out againſt them, and euen hanging ouer their heads, by giuing them Repentance through thy Grace: So now viſite the hearts of thy people in this Land with thine heauenly Grace, and holy Spirit, that they may ſpeedily and ſoundly returne vnto thee from all their wicked wayes, in true Re<g ref="char:EOLhyphen"/>pentance, and a liuing Faith in Ieſus Chriſt: That ſo wee may bee deliuered from this heauy wrath &amp; Plague, which our ſinnes haue pulled downe and ſcat<g ref="char:EOLhyphen"/>tered amongſt vs; And learne by thy fearefull Iudgements to walke hereaf<g ref="char:EOLhyphen"/>ter before thee, in continuall reuerence
+<pb facs="tcp:174756:8"/>
+               <!-- PDF PAGE 16 -->
+and obedience, And for thy gratious mer<g ref="char:EOLhyphen"/>cie to giue thee Euerlaſting praiſe and glory, through Ieſus Chriſt our Lord.</p>
+            <p>
+               <seg rend="decorInit">O</seg> Almightie God, which art the Reſurrection of the dead, and the Life of them which liue, who in thy diſ<g ref="char:EOLhyphen"/>pleaſure carieſt vs downe in a moment to the gates of death, and in thy mercie recalleſt our Soules backe to dwell in the land of the liuing: Wee giue thee humble thankes, that it hath pleaſed thee to reſtore vs when wee were almoſt paſt hope, to ſtrengthen vs in the extremitie of our weakeneſſe, to deliuer vs thy people of this Citie from the Contagion, when in the eye of mans reaſon it was moſt like<g ref="char:EOLhyphen"/>ly to haue encreaſed. This we acknow<g ref="char:EOLhyphen"/>ledge to be thy doing, O Lord, and it is wonderful in our eyes, which haue ſeene theſe thy great mercies ſurpaſſing the ſtrength of our hope: and wee beſeech thee to continue thy gracious goodneſſe towards vs ſtill, whereby all the world may ſee and knowe, that thou art our
+<pb facs="tcp:174756:8"/>
+               <!-- PDF PAGE 16 -->
+mercifull Father, and wonderfull Deli<g ref="char:EOLhyphen"/>uerer, to the glory of thy holy Name, and to the comfort of vs thy children, through Ieſus Chriſt our Lord.</p>
+            <p>
+               <seg rend="decorInit">O</seg> Heauenly Father, which art the Fountaine of Life, and the GOD of our health, in whome alone wee liue, and mooue, and haue our being: we beſeech thee, that as thou haſt beene gracious vnto this Citie, and the parts about it, in remoouing from hence that fearefull Plague, which for our ſins thou haddeſt moſt iuſtly ſent among vs: So it would pleaſe thee to heare theſe our in<g ref="char:EOLhyphen"/>terceſſions for our brethren, which in other places of this Realme do yet grone vnder thy puniſhing hand. O Lord, be gracious alſo vnto them, and command thine Angel to ſheath his Sword, that a remnant may be ſaued. So ſhall wee all ioyntly magnifie thy Mercies, and com<g ref="char:EOLhyphen"/>paſſe about thine Altars with ſongs of deliuerance, to our vnſpeakeable com<g ref="char:EOLhyphen"/>fort, and to thy euerlaſting Glory, through Ieſus Chriſt our Lord. Amen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
